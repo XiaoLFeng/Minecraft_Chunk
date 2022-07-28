@@ -14,9 +14,10 @@ int main() {
 	printf("========================================\n");
 	printf("我的世界区块计算器\n");
 	printf("支持版本：Java 区块为16*16的\n");
-	printf("此版本根据 Minecraft 1.18.2 进行开发");
+	printf("此版本根据 Minecraft 1.18.2 进行开发\n");
 	printf("\n");
 	printf("作者：筱锋xiao_lfeng\n");
+	printf("版本：1.0.0-Beta\n");
 	printf("========================================\n");
 	// 定义
 	int type;
